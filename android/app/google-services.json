@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "716392922291",
+    "firebase_url": "https://healthhighway-45963.firebaseio.com",
+    "project_id": "healthhighway-45963",
+    "storage_bucket": "healthhighway-45963.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716392922291:android:9eac8aff90a03f27a544c6",
+        "android_client_info": {
+          "package_name": "com.bodyfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "716392922291-bc242nf0ebbucuupbpjtcfdph9q4ts4g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bodyfit",
+            "certificate_hash": "3481186129fd3b47bf8eca19b1386a3c39e310b0"
+          }
+        },
+        {
+          "client_id": "716392922291-o1ouumrs98vgie5o83q3je479thj8uub.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4JluLiFJ_feqaVkHq8cHpT6KTfmWwkVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "716392922291-o1ouumrs98vgie5o83q3je479thj8uub.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
